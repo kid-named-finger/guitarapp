@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/kid-named-finger/guitarapp/static/css/main.f68366be.css",
-    "main.js": "/kid-named-finger/guitarapp/static/js/main.c817029c.js",
-    "static/js/453.c225f8e1.chunk.js": "/kid-named-finger/guitarapp/static/js/453.c225f8e1.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/kid-named-finger/guitarapp/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/kid-named-finger/guitarapp/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "static/media/applogo.png": "/kid-named-finger/guitarapp/static/media/applogo.b9924d47a58ec380d191.png",
-    "static/media/guitar.png": "/kid-named-finger/guitarapp/static/media/guitar.dd729c9ac7121332cc31.png",
-    "static/media/jerma.png": "/kid-named-finger/guitarapp/static/media/jerma.d2bd15c107a7868773f2.png",
-    "index.html": "/kid-named-finger/guitarapp/index.html",
-    "main.f68366be.css.map": "/kid-named-finger/guitarapp/static/css/main.f68366be.css.map",
-    "main.c817029c.js.map": "/kid-named-finger/guitarapp/static/js/main.c817029c.js.map",
-    "453.c225f8e1.chunk.js.map": "/kid-named-finger/guitarapp/static/js/453.c225f8e1.chunk.js.map"
+    "main.css": "/kid-named-finger/reactguitarapp/static/css/main.c3a5189f.css",
+    "main.js": "/kid-named-finger/reactguitarapp/static/js/main.ca8dc7e7.js",
+    "static/js/453.c225f8e1.chunk.js": "/kid-named-finger/reactguitarapp/static/js/453.c225f8e1.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/kid-named-finger/reactguitarapp/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/kid-named-finger/reactguitarapp/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/applogo.png": "/kid-named-finger/reactguitarapp/static/media/applogo.b9924d47a58ec380d191.png",
+    "static/media/guitar.png": "/kid-named-finger/reactguitarapp/static/media/guitar.dd729c9ac7121332cc31.png",
+    "static/media/jerma.png": "/kid-named-finger/reactguitarapp/static/media/jerma.d2bd15c107a7868773f2.png",
+    "index.html": "/kid-named-finger/reactguitarapp/index.html",
+    "main.c3a5189f.css.map": "/kid-named-finger/reactguitarapp/static/css/main.c3a5189f.css.map",
+    "main.ca8dc7e7.js.map": "/kid-named-finger/reactguitarapp/static/js/main.ca8dc7e7.js.map",
+    "453.c225f8e1.chunk.js.map": "/kid-named-finger/reactguitarapp/static/js/453.c225f8e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f68366be.css",
-    "static/js/main.c817029c.js"
+    "static/css/main.c3a5189f.css",
+    "static/js/main.ca8dc7e7.js"
   ]
 }

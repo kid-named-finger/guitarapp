@@ -1,0 +1,67 @@
+[
+    
+    {
+      "manufacturer": "Harley Benton",
+      "name": "SC-1000 SBK Progressive Line",
+      "price": 175,
+      "url": "https://fast-images.static-thomann.de/pics/bdb/_31/314901/19115159_800.jpg"
+    },
+    
+    {
+      "manufacturer": "Harley Benton",
+      "name": "Electric Guitar Kit Single Cut",
+      "price": 87,
+      "url": "https://m.media-amazon.com/images/I/81ca42qATEL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "manufacturer": "Harley Benton",
+      "name": "SC-450 BK Classic Series",
+      "price": 123,
+      "url": "https://fast-images.static-thomann.de/pics/bdb/_36/362543/16180011_800.jpg"
+    },
+    
+    {
+      "manufacturer": "Harley Benton",
+      "name": "SC-450 P90 GT Classic Series",
+      "price": 132,
+      "url": "https://fast-images.static-thomann.de/pics/bdb/_36/362546/16081183_800.jpg"
+    },
+    
+    {
+      "manufacturer": "Harley Benton",
+      "name": "SC-450Plus HB Vintage Series",
+      "price": 158,
+      "url": "https://fast-images.static-thomann.de/pics/bdb/_36/362546/16081183_800.jpg"
+    },
+    
+    {
+      "manufacturer": "Gibson",
+      "name": "Les Paul Standard 60s IT",
+      "price": "2,079",
+      "url": "https://cdn.harleybenton.com/app/uploads/products/14471549_800.jpg"
+    },
+    {
+      "manufacturer": "Harley Benton",
+      "name": "SC-500 BK Vintage Series",
+      "price": 149,
+      "url": "https://cdn.harleybenton.com/app/uploads/products/thumbnail_15630130_800.jpg"
+    },
+    {
+      "manufacturer": "Harley Benton",
+      "name": "SC-550 II PAF",
+      "price": 264,
+      "url": "https://cdn.harleybenton.com/app/uploads/2023/03/180164_521048_16415191-1000x1487.jpg"
+    },
+    {
+      "manufacturer": "Gretsch",
+      "name": "G5425 Jet Club Black",
+      "price": 273,
+      "url": "https://remenyi.com/cdn/shop/files/gretsch-g5425-electromatic-jet-club-electric-guitar-474893.jpg?v=1719250198&width=3000"
+    },
+    {
+      "manufacturer": "Harley Benton",
+      "name": "SC-Custom II Vintage Black",
+      "price": 238,
+      "url": "https://armonicos.cl/7424-thickbox_default/harley-benton-sc-custom-plus-emg-fr-vintage-black.jpg"
+    }
+  ]

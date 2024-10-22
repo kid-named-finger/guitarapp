@@ -1,0 +1,87 @@
+[
+  {
+    "Artist": "Imagine Dragons",
+    "SongName": "Radioactive",
+    "SongRating": "16,411",
+    "SongHits": "9,646,730",
+    "PageType": "Chords",
+    "Difficulty": "novice",
+    "Key": "Bm",
+    "Capo": "2nd fret",
+    "Tuning": "E A D G B E",
+    "URL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Imagine_Dragons_-_%22Radioactive%22_%28Single%29.jpg/220px-Imagine_Dragons_-_%22Radioactive%22_%28Single%29.jpg"
+  },
+  {
+    "Artist": "Extreme",
+    "SongName": "More Than Words",
+    "SongRating": "4,270",
+    "SongHits": "9,582,233",
+    "PageType": "Chords",
+    "Difficulty": "intermediate",
+    "Key": "G",
+    "Capo": "No Capo",
+    "Tuning": "Eb Ab Db Gb Bb Eb",
+    "URL": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/More_than_words.jpg/220px-More_than_words.jpg"
+  },
+  {
+    "Artist": "Plain White T's",
+    "SongName": "Hey There Delilah",
+    "SongRating": "3,815",
+    "SongHits": "9,466,024",
+    "PageType": "Tab",
+    "Difficulty": "intermediate",
+    "Key": "D",
+    "Capo": "No Capo",
+    "Tuning": "E A D G B E",
+    "URL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Hey_There_Delilah_%282006_Plain_White_T%27s_single%29.jpg/220px-Hey_There_Delilah_%282006_Plain_White_T%27s_single%29.jpg"
+  },
+  {
+    "Artist": "The Beatles",
+    "SongName": "Hey Jude",
+    "SongRating": "2,493",
+    "SongHits": "9,385,429",
+    "PageType": "Chords",
+    "Difficulty": "intermediate",
+    "Key": "F",
+    "Capo": "No Capo",
+    "Tuning": "E A D G B E",
+    "URL": "https://vinyl-records.nl/beatles/album-covers/hey-jude-netherlands/A0641-BEATLES-Hey-Jude-9829.jpg"
+  },
+  {
+    "Artist": "Adele",
+    "SongName": "Rolling In The Deep",
+    "SongRating": "1,243",
+    "SongHits": "9,207,520",
+    "PageType": "Chords",
+    "Difficulty": "intermediate",
+    "Key": "Db",
+    "Capo": "No Capo",
+    "Tuning": "E A D G B",
+    "URL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Adele_-_Rolling_in_the_Deep.png/220px-Adele_-_Rolling_in_the_Deep.png"
+  },
+  {
+    "Artist": "Eric Clapton",
+    "SongName": "Tears In Heaven",
+    "SongRating": "4,188",
+    "SongHits": "9,054,292",
+    "PageType": "Tab",
+    "Difficulty": "advanced",
+    "Key": "A",
+    "Capo": "No Capo",
+    "Tuning": "E A D G B E",
+    "URL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Tears_in_Heaven_Vinyl_Cover.jpg/220px-Tears_in_Heaven_Vinyl_Cover.jpg"
+
+  },
+  {
+    "Artist": "Jason Mraz",
+    "SongName": "Im Yours",
+    "SongRating": "2,343",
+    "SongHits": "8,982,960",
+    "PageType": "Chords",
+    "Difficulty": "novice",
+    "Key": "B",
+    "Capo": "No Capo",
+    "Tuning": "E A D G B E",
+    "URL": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ImYoursJasonMraz.jpg/220px-ImYoursJasonMraz.jpg"
+  }
+]
